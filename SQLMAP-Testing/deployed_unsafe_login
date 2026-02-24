@@ -1,0 +1,24 @@
+POST /unsafe/login HTTP/1.1
+Host: alscheift.my.id
+Cookie: XSRF-TOKEN=eyJpdiI6Ii9RaUVwbmpFVVZhaGdRb2dJelRHQVE9PSIsInZhbHVlIjoiL0JkTjRseGI3UjhpejlBWmhkTXRUSmdWOEJEb2RQUDNoditFT0FLdFgxNThMV1NYZGZ0dGtaWjJ6Q1RLdDBSaUx5Q0U4a09SSEtQVzN1NjUvVk41aVBnTTQwcVdmb2RpclhqVVdWdm00NHFMVHRBblg0UlZya0s4MnlNREFtVnMiLCJtYWMiOiIyZDZjYzVmNjMzN2I4Y2QwOGQ1MmIzZmQwOTQ2YzkzMzI4ZmMwYmJiZjdlNzIzNDdiY2EzMjc0MDI5ZDM1MDIyIiwidGFnIjoiIn0%3D; jmpl_a_2024_session=eyJpdiI6IjhxVk1mNWgweDJ6cHlCcndqVEs4Z3c9PSIsInZhbHVlIjoiVDJnaFpqTEMrenhJQXlWYXZUcTlBKytQOGhQQWM5NjhsY0dOUjBIRXhXbGgybEFzN2VuaUFwbXMyYy9mL212aUNlVGEzV1hwaUlZSWRkd1JGaTNCbk1yT1hWdW00THlWdjJ3eERNdnVRRkdwdXFQekY1N1dvZHhqZVh0N2N3Z1ciLCJtYWMiOiJkNjRiMGU3OWFhMWZmNjI0Y2I5ZDZmZGUzNmZmOThkY2YwODQwMGRmODc2OGI3NzA5ZjhiZTQzNzY1NGZkZTNiIiwidGFnIjoiIn0%3D
+Content-Length: 32
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Chromium";v="125", "Not.A/Brand";v="24"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: https://alscheift.my.id
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.60 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://alscheift.my.id/unsafe/login
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Priority: u=0, i
+Connection: keep-alive
+
+email=username&password=password
